@@ -1,0 +1,5 @@
+"http://www.codesqueeze.com/intellects-dont-appreciate-intelligence/","Intellects Don’t Appreciate Intelligence","ZenHabits"
+"http://herdingcats.typepad.com/my_weblog/2009/10/risk-management-the-good-the-bad-and-the-ugly.html","Risk Management - the Good, the Bad, and the Ugly","softwaredevelopment"
+"http://giorgiosironi.blogspot.com/2009/10/value-of-abstractions.html","The value of abstractions","programming"
+"http://www.thoughtclusters.com/2009/10/show-dont-tell/","Show, Don’t Tell","agile"
+"http://www.leadingagile.com/2009/10/velocity-in-enterprise-part-3.html","Velocity in the Enterprise, Part 3","agile"

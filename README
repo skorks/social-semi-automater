@@ -1,0 +1,3 @@
+- download selenium rc sever and get the selenium rc jar
+- sudo gem install selenium-client
+- need to start up the server before anything: java -jar selenium-server.jar
