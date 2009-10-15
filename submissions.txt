@@ -1,5 +1,10 @@
-"http://www.codesqueeze.com/intellects-dont-appreciate-intelligence/","Intellects Don’t Appreciate Intelligence","ZenHabits"
-"http://herdingcats.typepad.com/my_weblog/2009/10/risk-management-the-good-the-bad-and-the-ugly.html","Risk Management - the Good, the Bad, and the Ugly","softwaredevelopment"
-"http://giorgiosironi.blogspot.com/2009/10/value-of-abstractions.html","The value of abstractions","programming"
-"http://www.thoughtclusters.com/2009/10/show-dont-tell/","Show, Don’t Tell","agile"
-"http://www.leadingagile.com/2009/10/velocity-in-enterprise-part-3.html","Velocity in the Enterprise, Part 3","agile"
+http://cad-comic.com/comic.php?d=20091014|Proper Attire|comics
+http://glutenfreegirl.blogspot.com/2009/10/how-to-chop-onion-video.html|How to chop an onion|video
+http://www.siliconvalleywatcher.com/mt/archives/2009/10/businessweek_se.php|The Fall Of Print: BusinessWeek Sells For Under $5m - Worth $1bn In 2000|business
+http://freelancefolder.com/10-productivity-tools-for-computer-addicts/|10 Productivity Tools for Computer Addicts|lists
+http://www.itnews.com.au/News/158194,csiros-wi-fi-patent-victory-earns-200m-and-counting.aspx|CSIRO's Wi-Fi patent victory earns $200m and counting|technology
+http://news.bbc.co.uk/2/hi/technology/8307804.stm|'Magnetic electricity' discovered|science
+http://news.cnet.com/8301-17939_109-10374831-2.html|Finland makes 1Mb broadband access a legal right|technology
+http://www.networkworld.com/news/2009/101409-delta-air-lines-sued-over.html|Delta Air Lines sued over alleged e-mail hacking|technology
+http://www.australianit.news.com.au/story/0,24897,26209114-15306,00.html|Web creator apologises for his strokes|technology
+http://www.gamasutra.com/view/feature/4160/developing_games_for_android.php|Developing Games for Android|gaming 

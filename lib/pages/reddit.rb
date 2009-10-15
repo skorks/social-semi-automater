@@ -16,10 +16,30 @@ class Reddit
     @browser.wait_for_page_to_load
   end
 
+  def submitting_too_fast
+    go_home
+    go_to_submission_page
+    @browser.type 'sr', 'reddit.com'
+    @browser.click "xpath=//button[@name='submit']"
+    @browser.wait_for :wait_for => :text, :text => 'a url is required'
+    @browser.is_text_present "you are trying to submit too fast"
+  end
+
+  def submit_if_not_already_submitted(submission)
+    submit submission
+    if(!already_submitted)
+      TimeIntervalGenerator.wait_for_next_submission
+    end
+  end
+
   def submit(submission)
+    go_home
     go_to_submission_page
     submit_story submission.url, submission.title, submission.tag
-    go_home
+  end
+
+  def already_submitted
+    @browser.is_element_present "xpath=//a[text()='submit it again']"
   end
 
   def go_to_submission_page

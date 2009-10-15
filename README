@@ -1,3 +1,20 @@
 - download selenium rc sever and get the selenium rc jar
 - sudo gem install selenium-client
 - need to start up the server before anything: java -jar selenium-server.jar
+
+Bugs/Features
+- rake task to build project
+- rake task to start/stop selenium server
+- rake task to run project
+- remove my real user and pass from the github code
+- pass username and pass when starting up the app
+
+DONE
+- if already submitted then submit the next one straight away don't wait DONE
+- make submissions file pipe delimited instead of comma delimited, so don't need to wrap content in quotes DONE
+- if coma in url doesn't work properly FIXED (by making file pipe delimited)
+- be able to handle single quotes inside double quotes DONE (no longer relevant since file pipe delimited)
+- if currently can't submit then wait 10 minutes then try again DONE
+- log what has been done DONE
+- log the next sleep time DONE
+- rescue any submission error, log it and keep going with other submissions DONE

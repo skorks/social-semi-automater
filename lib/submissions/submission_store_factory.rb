@@ -17,8 +17,6 @@ class SubmissionStoreFactory
   end
 
   def self.parse_line(line)
-    line.split(",").map do |item|
-      item.strip.gsub("\"", '')
-    end
+    line.chomp.split("|")
   end
 end
