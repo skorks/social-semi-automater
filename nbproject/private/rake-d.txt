@@ -15,5 +15,7 @@ pkg/social_semi_automater-0.0.1.zip=
 rdoc=Build the rdoc HTML Files
 repackage=Force a rebuild of the package files
 rerdoc=Force a rebuild of the RDOC files
+selenium\:rc\:start=Launch Selenium Remote Control
+selenium\:rc\:stop=Stop Selenium Remote Control running
 spec=Run specs
 test=Run tests

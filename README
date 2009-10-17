@@ -4,10 +4,11 @@
 
 Bugs/Features
 - rake task to build project
-- rake task to start/stop selenium server
 - rake task to run project
-- remove my real user and pass from the github code
-- pass username and pass when starting up the app
+- pass in location of submissions file on startup or by default, one level below main.rb
+- app not shutting down in the end and neither is selenium server, intermittent
+- test for invalid account and exit if invalid
+
 
 DONE
 - if already submitted then submit the next one straight away don't wait DONE
@@ -18,3 +19,7 @@ DONE
 - log what has been done DONE
 - log the next sleep time DONE
 - rescue any submission error, log it and keep going with other submissions DONE
+- rake task to start/stop selenium server DONE
+- selenium server should start up and shut down as part of application flow DONE
+- fix app to not catch system level exceptions DONE (althoug still catching everything when submitting)
+- pass username and pass when starting up the app on the command line (remove real user and pass from codebase)

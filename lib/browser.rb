@@ -4,7 +4,7 @@ class Browser
     @browser_driver = Selenium::Client::Driver.new(:host => "localhost",
       :port => 4444,
       :browser => "*firefox",
-      :timeout_in_seconds => 30,
+      :timeout_in_seconds => 90,
       :url => "http://www.google.com/")
   end
 
